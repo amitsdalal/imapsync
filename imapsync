@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 
-# $Id: imapsync,v 1.957 2019/08/29 17:40:13 gilles Exp gilles $
+# $Id: imapsync,v 1.958 19/10/30  amitdalal
 # structure
 # pod documentation
 # use pragmas
