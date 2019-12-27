@@ -1,3 +1,5 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/amitdalal/imapsync.svg)](https://hub.docker.com/r/amitdalal/imapsync)
+
 # imapsync
 #
 
