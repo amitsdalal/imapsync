@@ -3,12 +3,12 @@
 # imapsync
 #
 
-# Please make sure you have got a working copy of the docker running to use this software.
+## Please make sure you have got a working copy of the docker running to use this software.
 
-# Usage docker run amitdalal/imapsync imapsync {followed by regular imapsync commands}
+## Usage docker run amitdalal/imapsync imapsync {followed by regular imapsync commands}
 
 
-What is imapsync?
+# What is imapsync?
 
 Imapsync is a method used in email migration. Imapsync copies mailboxes from one server to another during migration. 
 For performing imapsync, the email accounts should use IMAP protocol instead of POP3. 
